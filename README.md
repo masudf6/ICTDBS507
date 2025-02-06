@@ -2,7 +2,7 @@
 
 **Overview**
 
-This project is developed as part of the Diploma of IT course for the unit Connect Database to Webpage (ICTDBS507). It serves as a learning resource for students to understand database-driven web applications.
+This project is developed as part of the Diploma of IT course for the unit Connect Database to Webpage (ICTDBS507), which I am teaching. It serves as a learning resource for students to understand database-driven web applications.
 
 **Features**
 
