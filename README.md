@@ -2,7 +2,7 @@
 
 **Overview**
 
-This project is developed as part of the Diploma of IT course for the unit Connect Database to Webpage (ICTDBS507). It demonstrates how to build a dynamic web application that allows users to register, log in, participate in a forum, send messages, and manage their profiles.
+This project is developed as part of the Diploma of IT course for the unit Connect Database to Webpage (ICTDBS507). It serves as a learning resource for students to understand database-driven web applications.
 
 **Features**
 
