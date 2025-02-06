@@ -1,47 +1,47 @@
-Web Forum & Messaging System
+**Web Forum & Messaging System**
 
-Overview
+**Overview**
 
 This project is developed as part of the Diploma of IT course for the unit Connect Database to Webpage (ICTDBS507). It demonstrates how to build a dynamic web application that allows users to register, log in, participate in a forum, send messages, and manage their profiles.
 
-Features
+**Features**
 
-User Management
+**User Management**
 
-Users can register and log in securely.
+- Users can register and log in securely.
 
-Users can update their profile, including changing their username, name, and password.
+- Users can update their profile, including changing their username, name, and password.
 
-Forum System
+**Forum System**
 
-Users can create topics and ask questions.
+- Users can create topics and ask questions.
 
-Other users can post answers to these questions.
+- Other users can post answers to these questions.
 
-Questions and answers are stored in a PostgreSQL database.
+- Questions and answers are stored in a PostgreSQL database.
 
-Messaging System
+**Messaging System**
 
-Users can send and receive private messages.
+- Users can send and receive private messages.
 
-A conversation-style chat interface is available for communication between users.
+- A conversation-style chat interface is available for communication between users.
 
-Technologies Used
+**Technologies Used**
 
-Frontend: HTML, CSS, JavaScript
+- Frontend: HTML, CSS
 
-Backend: PHP
+- Backend: PHP
 
-Database: PostgreSQL
+- Database: PostgreSQL
 
-Architecture: MVC (Model-View-Controller)
+**Architecture: MVC (Model-View-Controller)**
 
-Installation
+**Installation**
 
-Prerequisites
+**Prerequisites**
 
-PHP (>= 7.4)
+- PHP (>= 7.4)
 
-PostgreSQL
+- PostgreSQL
 
-Apache Server (or any other compatible web server)
+- Apache Server (or any other compatible web server)
